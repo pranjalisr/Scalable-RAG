@@ -162,11 +162,6 @@ The async queue pattern means the ingestion pipeline scales independently of que
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue first to discuss what you'd like to change, then submit a pull request.
-
----
 
 ## 📄 License
 
